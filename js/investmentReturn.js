@@ -1,0 +1,1 @@
+const dividend = (A, P, r, n, t,) => A = P(1 + r/n)^(nt)
